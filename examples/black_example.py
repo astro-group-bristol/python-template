@@ -27,6 +27,6 @@ def ThisIsMyJankyFunction():
     """Include doctstrings in your functions."""
     thirteen_is_a_bad_variable_name = 13
 
-    try_using_single_quotes = "this is a string"
+    try_using_single_quotes = "This is a string."
 
     return thirteen_is_a_bad_variable_name, try_using_single_quotes
